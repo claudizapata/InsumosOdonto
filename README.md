@@ -34,3 +34,4 @@ muestraCarrito.js: contiene el código js que permite renderizar en forma de lis
 GitHub:
 A la subida del proyecto al repositorio en GitHub la realicé de la siguiente manera:
 Desde la carpeta del proyecto en el explorador de Windows, hago botón derecho (Git Bash), se me abre la ventana en modo comando, y allí ingreso por consola los siguientes comandos: git status - git add . - git commit -m "....." - git push -u origin main
+# InsumosOdonto
